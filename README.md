@@ -1,3 +1,10 @@
 # Instamart-Platform-Analysis
 I wanted to practice my data visualization skills, so I took a dataset of Swiggy Instamart orders and built a dashboard to see how the platform performs. The dashboard lets you click through 8 different cities to see exactly what people are buying and how they are paying.
-Cool Things I Found:Fast Deliveries: Out of 25,000 orders, the average delivery time is just 20.20 minutes, with over 81% of orders arriving on time.   How People Pay: UPI is by far the most popular way to pay, bringing in almost ₹20M in revenue, completely crushing credit cards and cash.   Top Products: The highest-selling categories are everyday essentials like Beverages, Atta & Grains, and Oil & Masalas. 
+
+Cool Things I Found:
+
+Fast Deliveries: Out of 25,000 orders, the average delivery time is just 20.20 minutes, with over 81% of orders arriving on time.   
+
+How People Pay: UPI is by far the most popular way to pay, bringing in almost ₹20M in revenue, completely crushing credit cards and cash.   
+
+Top Products: The highest-selling categories are everyday essentials like Beverages, Atta & Grains, and Oil & Masalas. 
